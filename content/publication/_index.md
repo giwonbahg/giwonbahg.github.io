@@ -6,7 +6,8 @@ description: ""
 ## Publications
 
 ### Manuscripts in Progress or Under Review
- * **Bahg, G.**, Luchini, S. A., & Beaty, R. E. (in preparation). Automated creativity assessment: A review of methods, challenges, and future projects.
+ * **Bahg, G.**, Luchini, S. A., & Beaty, R. E. (submitted). Automated creativity assessment: A review of methods, challenges, and future projects.
+   * PsyArXiv preprint [https://osf.io/preprints/psyarxiv/hvx2n_v1](https://osf.io/preprints/psyarxiv/hvx2n_v1)
  * **Bahg, G.**, Cox, G. E., Logan, G. D., Palmeri, T. J., & Schall, J. D. (under revision). A neurocomputational model of visual search explains an attention-related event-related potential.
 
 ### Peer-reviewed Journal Articles
