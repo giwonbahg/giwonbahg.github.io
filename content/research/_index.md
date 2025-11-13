@@ -10,7 +10,7 @@ description: "Ongoing projects"
  	* Active learning: How do we explore and choose what to learn?
  * **Human-AI interaction**
  	* What makes us outsource learning and thinking?
- 	* How does it impact on our cognition?
+ 	* How does it impact on our cognition? 
  	* Can we imagine better ways of interaction?
  * **How can we computationally model cognitive processes?**
  	* Cognitive modeling
