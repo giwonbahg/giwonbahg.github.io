@@ -4,10 +4,14 @@ description: "Ongoing projects"
 ---
 
 ## General Research Interests
+ * **How do concepts and categories interact with other cognitive mechanisms and thought processes?**
+ * **How do learning and thought processes expand over time?**
+ * **What makes our learning and thinking biased? How to overcome the bias?**
+ 	* Active learning: How do we explore and choose what to learn?
+ * **Human-AI interaction**
+ 	* What makes us outsource learning and thinking?
+ 	* How does it impact on our cognition?
+ 	* Can we imagine better ways of interaction?
  * Computational cognitive modeling, model-based cognitive neuroscience
- * Concepts, categories, semantics, and their interactions with higher-order thought processes
- * Temporal dynamics of learning, decision-making, and inferences
- * Human-algorithm interaction
- * Active learning
 
 ## Ongoing Research Projects
