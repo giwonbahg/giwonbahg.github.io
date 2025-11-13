@@ -12,6 +12,8 @@ description: "Ongoing projects"
  	* What makes us outsource learning and thinking?
  	* How does it impact on our cognition?
  	* Can we imagine better ways of interaction?
- * Computational cognitive modeling, model-based cognitive neuroscience
+ * **How can we computationally model cognitive processes?**
+ 	* Cognitive modeling
+ 	* Neural network modeling
 
 ## Ongoing Research Projects
